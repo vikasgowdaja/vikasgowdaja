@@ -57,9 +57,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikasgowdaja&theme=react-dark&hide_border=true&area=true" />
 </p>
-
 ---
-
 # 🧠 **Random Developer Quote**
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
