@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1500&pause=700&color=00E5FF&center=true&vCenter=true&width=900&height=70&lines=Hi+I'm+Vikas+Gowda+J+A+👋;Full+Stack+Developer+%7C+Cloud+Engineer;Node.js+%7C+React+%7C+AWS+%7C+Kubernetes;Crafting+Reliable+Scalable+Systems+⚡" />
 </p>
 
-
 <!-- Hero GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
