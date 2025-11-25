@@ -1,7 +1,8 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1AF7FF&center=true&vCenter=true&width=800&lines=Hi+There+👋+I'm+Vikas+Gowda+J+A;Senior+Full+Stack+Developer+💻;MERN+Stack+%7C+DevOps+%7C+AWS+%7C+Microservices;I+Build+Scalable+Cloud-Native+Applications+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1500&pause=700&color=00E5FF&center=true&vCenter=true&width=900&height=70&lines=Hi+I'm+Vikas+Gowda+J+A+👋;Full+Stack+Developer+%7C+Cloud+Engineer;Node.js+%7C+React+%7C+AWS+%7C+Kubernetes;Crafting+Reliable+Scalable+Systems+⚡" />
 </p>
+
 
 <!-- Hero GIF -->
 <p align="center">
@@ -61,15 +62,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
-
----
-
-# 🎉 **Fun GIF Section**
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300"/>
-</p>
-
 ---
 
 # 🌐 **Connect With Me**
