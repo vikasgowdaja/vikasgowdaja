@@ -1,7 +1,8 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1800&pause=900&color=FCDC62&center=true&vCenter=true&width=900&height=70&lines=Hello+World+🌍;I'm+Vikas+Gowda+J+A;Senior+Full+Stack+Engineer+%7C+Architect;MERN+%7C+AWS+%7C+Microservices+%7C+DevOps;Transforming+Ideas+Into+Production-Ready+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=2000&pause=800&color=3A8DFF&center=true&vCenter=true&width=900&height=70&lines=Hi+There+👋+I'm+Vikas+Gowda+J+A;Senior+Full+Stack+Developer;MERN+Stack+%7C+AWS+%7C+DevOps+%7C+Microservices;Building+Scalable+Cloud-Native+Systems+🚀" />
 </p>
+
 
 
 <!-- Hero GIF -->
