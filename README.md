@@ -3,8 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1800&pause=900&color=3A8DFF&center=true&vCenter=true&width=900&height=70&lines=Hello+World+🌍;I'm+Vikas+Gowda+J+A;Senior+Full+Stack+Developer+%7C+Architect;MERN+%7C+AWS+%7C+Microservices+%7C+DevOps;Transforming+Ideas+Into+Production-Ready+Systems" />
 </p>
 
-
-
+<br/>
 
 <!-- Hero GIF -->
 <p align="center">
@@ -13,35 +12,39 @@
 
 ---
 
-# 👨‍💻 **About Me**
-- 🔭 I’m currently working as **Senior Full Stack Engineer at Ancile Digital**
-- 🌐 Deployed at **Version 1 → International Schools Partnership (ISP)**
-- ☁️ Building **Cloud + AI + DevOps** integrated solutions
-- ⚡ Love **React, Node, AWS, Microservices, Docker, K8s**
-- 🎯 Passionate about **scalable architectures & modern web engineering**
+# 👨‍💻 <p align="center">**About Me**</p>
+
+<p align="center">
+  🔭 Currently working as <b>Senior Full Stack Engineer at Ancile Digital</b><br/>
+  🌐 Deployed at <b>Version 1 → International Schools Partnership (ISP)</b><br/>
+  ☁️ Building <b>Cloud + AI + DevOps</b> integrated solutions<br/>
+  ⚡ Love <b>React, Node, AWS, Microservices, Docker, K8s</b><br/>
+  🎯 Passionate about <b>scalable architectures & modern web engineering</b>
+</p>
 
 ---
 
-# 🚀 **Tech Stack**
+# 🚀 <p align="center">**Tech Stack**</p>
 
-## 🖥️ **Frontend**
+### 🖥️ <p align="center">Frontend</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css,tailwind,materialui,vite" />
 </p>
 
-## ⚙️ **Backend & DevOps**
+### ⚙️ <p align="center">Backend & DevOps</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,py,flask,docker,kubernetes,jenkins,postman" />
 </p>
 
-## ☁️ **Cloud & Databases**
+### ☁️ <p align="center">Cloud & Databases</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,mongodb,mysql,postgres,redis" />
 </p>
 
 ---
 
-# 🔥 **My GitHub Stats**
+# 🔥 <p align="center">**My GitHub Stats**</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasgowdaja&theme=tokyonight&fire=DD2727&ring=1AF7FF&currStreakLabel=1AF7FF" height="200"/>
 </p>
@@ -53,18 +56,24 @@
 
 ---
 
-# 🌀 **Animated Contribution Graph**
+# 🌀 <p align="center">**Animated Contribution Graph**</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikasgowdaja&theme=react-dark&hide_border=true&area=true" />
 </p>
+
 ---
-# 🧠 **Random Developer Quote**
+
+# 🧠 <p align="center">**Random Developer Quote**</p>
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
+
 ---
 
-# 🌐 **Connect With Me**
+# 🌐 <p align="center">**Connect With Me**</p>
+
 <p align="center">
   <a href="https://linkedin.com/in/vikasGowdaJA">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
@@ -79,7 +88,8 @@
 
 ---
 
-# 👀 **Profile Views**
+# 👀 <p align="center">**Profile Views**</p>
+
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=vikasgowdaja&icon=6&color=6" />
 </p>
